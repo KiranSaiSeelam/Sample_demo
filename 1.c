@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("%s","Hai");
+	int a = 39;
+	printf("%d",a);
 }
